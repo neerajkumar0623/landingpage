@@ -1,0 +1,114 @@
+.header{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(220, 148, 85);
+    
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+.logo h1{
+  color: white;
+  padding: 10px 20px;
+  font-style: italic;
+}
+.option a li{
+    list-style: none;
+
+}
+.option a{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+}
+
+.option ul{
+    display: flex;
+    justify-content: center;
+    position:relative;
+    bottom: 65px;
+
+}
+
+.section img{
+    height: 500px;
+    width: 100%;
+}
+.section2 {
+    display: flex;
+    justify-content: space-between;
+}
+.section2 .photo{
+    width: 50%;
+border: 2px solid black;
+}
+.section2 .photo img{
+    height: 400px;
+    width: 100%; 
+}
+.section2 .text{
+    height: 400px;
+    width: 50%; 
+    border: 2px solid black;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.heading h1{
+    text-align: center;
+    color: rgb(220, 148, 85);
+}
+.section3 .c img{
+     height: 200px;
+     width: 200px;
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+
+}
+.footer a li{
+    list-style: none;
+
+}
+.footer a{
+    text-decoration: none; 
+    padding: 10px 20px;
+    color:white;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: center;
+    position:relative;
+    top: 150px;
+
+}
+.footer{
+    height: 200px;
+    width: 100%;    
+    background-color: rgb(220, 148, 85);
+}
+.footer h1{
+    color: white;
+    padding: 10px 20px;
+    font-style: italic;
+    text-align: center;
+  }
+  .underline{
+    height: 4px;
+    width: 200px;
+    background-color: white;
+    position:relative;
+    left: 580px;
+   
+  }
+
+
+
+
+
+
